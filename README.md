@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on a number of Java and python projects
 - 🌱 I’m currently learning JavaScript
 - 👯 I’m looking to collaborate on Angular JavaScript projects
-- 📫 How to reach me: matthewreidy@gmail.com
+- 📫 How to reach me: matthewreidy5@gmail.com
 
 <!--
 **Matthew-Reidy/Matthew-Reidy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
