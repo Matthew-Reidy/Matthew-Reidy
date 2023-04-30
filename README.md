@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on a number of Java and Python projects
-- 🌱 I’m currently learning JavaScript
 - 📫 How to reach me: https://twitter.com/MR9734127939
 
 <!--
