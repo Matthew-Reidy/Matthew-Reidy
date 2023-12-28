@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 
-- 📫 How to reach me: https://twitter.com/MR9734127939
-
 <!--
 **Matthew-Reidy/Matthew-Reidy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
