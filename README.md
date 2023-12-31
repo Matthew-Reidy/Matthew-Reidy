@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Actively looking for software engineer roles in the San Francisco Bay Area
+I am actively looking for software engineer roles in the San Francisco Bay Area
 - 📫 How to reach me: matthewreidy5@gmail.com
 <!--
 **Matthew-Reidy/Matthew-Reidy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
