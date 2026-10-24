@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am actively looking for software engineer roles in the San Francisco Bay Area
+I am actively looking for Software Engineer and Site Reliability Engineer roles in the San Francisco Bay Area
 
 - 📫 How to reach me...
   - matthewreidy5@gmail.com
